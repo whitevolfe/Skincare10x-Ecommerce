@@ -60,14 +60,24 @@ const HeaderBottom = () => {
               >
                
 
-                <Link to={"category/Skin Syrum"}>
+                <Link to={"category/Serum"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    Skin Syrum
+                    Serum
                   </li>
                 </Link>
-                <Link to={"category/Hair Dryer"}>
+                <Link to={"category/Face Cream"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    Hair Dryer
+                    Face Cream
+                  </li>
+                </Link>
+                <Link to={"category/Face Wash"}>
+                  <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
+                    Face Wash
+                  </li>
+                </Link>
+                <Link to={"category/Body Lotion"}>
+                  <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
+                    Body Lotion
                   </li>
                 </Link>
               

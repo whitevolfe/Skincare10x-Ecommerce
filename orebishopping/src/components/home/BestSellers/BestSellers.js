@@ -10,6 +10,10 @@ import {
   ruban4,
   ruban3,
   bac4,
+  encre10,
+  encre11,
+  encre12,
+  encre13,
 } from "../../../assets/images/index";
 
 const BestSellers = () => {
@@ -19,26 +23,26 @@ const BestSellers = () => {
       <div className="w-full grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-3 xl:grid-cols-4 gap-10">
         <Product
           _id="1011"
-          img={ruban4}
-          productName="Hair Dryer"
+          img={encre10}
+          productName="Face Cream"
           price="35.00"
-          color="Blank and White"
+          color="Mixed"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
         <Product
           _id="1012"
-          img={ruban3}
-          productName="Hair Dryer"
+          img={encre11}
+          productName="Face Cream"
           price="180.00"
-          color="Gray"
+          color="Mixed"
           badge={false}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
         <Product
           _id="1013"
-          img={ruban1}
-          productName="Hair Dryer"
+          img={encre12}
+          productName="Body Lotion"
           price="25.00"
           color="Mixed"
           badge={true}
@@ -46,10 +50,10 @@ const BestSellers = () => {
         />
         <Product
           _id="1014"
-          img={bac4}
-          productName="Hair Dryer"
+          img={encre13}
+          productName="Serum"
           price="220.00"
-          color="Black"
+          color="Mixed"
           badge={false}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />

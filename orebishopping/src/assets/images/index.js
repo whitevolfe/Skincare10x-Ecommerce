@@ -31,6 +31,24 @@ import encre1 from "./products/bestSeller/encre1.webp";
 import encre2 from "./products/bestSeller/encre2.webp";
 import encre3 from "./products/bestSeller/encre3.webp";
 import encre4 from "./products/bestSeller/encre4.webp";
+import encre5 from "./products/newArrival/encre5.jpg";
+import encre6 from "./products/newArrival/encre6.jpg";
+import encre7 from "./products/newArrival/encre7.jpg";
+import encre8 from "./products/newArrival/encre8.jpg";
+import encre9 from "./products/newArrival/encre9.jpg";
+import encre10 from "./products/bestSeller/encre10.jpg";
+import encre11 from "./products/bestSeller/encre11.jpg";
+import encre12 from "./products/bestSeller/encre12.jpg";
+import encre13 from "./products/bestSeller/encre13.jpg";
+import encre14 from "./products/newArrival/encre14.jpg";
+import encre15 from "./products/newArrival/encre15.jpg";
+import encre16 from "./products/newArrival/encre16.jpg";
+import encre17 from "./products/newArrival/encre17.jpg";
+import encre18 from "./products/newArrival/encre18.jpg";
+import encre19 from "./products/newArrival/encre19.jpg";
+import encre20 from "./products/newArrival/encre20.jpg";
+import encre21 from "./products/newArrival/encre21.jpg";
+import encre22 from "./products/newArrival/encre22.jpg";
 import bac1 from "./products/bestSeller/bac1.webp";
 import bac2 from "./products/bestSeller/bac2.webp";
 import bac3 from "./products/bestSeller/bac3.webp";
@@ -108,6 +126,24 @@ export {
   encre2,
   encre3,
   encre4,
+  encre5,
+  encre6,
+  encre7,
+  encre8,
+  encre9,
+  encre10,
+  encre11,
+  encre12,
+  encre13,
+  encre14,
+  encre15,
+  encre16,
+  encre17,
+  encre18,
+  encre19,
+  encre20,
+  encre21,
+  encre22,
   bac1,
   bac2,
   bac3,
